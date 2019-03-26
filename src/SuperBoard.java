@@ -1,5 +1,5 @@
 /**
- * Tic Tac Toe board consisting if smaller boards
+ * Tic Tac Toe board consisting of smaller boards
  *
  * @see Board
  */
